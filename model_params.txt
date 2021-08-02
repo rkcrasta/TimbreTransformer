@@ -1,0 +1,9 @@
+{
+    "flute_v1": {
+        "save_dir": "Flute_Classifier",
+        "n_fft": 1024,
+        "srate": 22050,
+        "input_shape_y": 10,
+        "custom_loss_parameter": 100000.0
+    }
+}
