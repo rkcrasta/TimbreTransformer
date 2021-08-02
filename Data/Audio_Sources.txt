@@ -1,0 +1,9 @@
+Flute.mp3: https://imslp.org/wiki/Partita_in_A_minor%2C_BWV_1013_(Bach%2C_Johann_Sebastian)
+
+Piano.mp3: https://imslp.org/wiki/Suite_bergamasque_(Debussy,_Claude)
+
+Guitar.mp3: https://archive.org/details/BachGuitar/FugueInAMinorbwv1000.mp3
+
+Violin.mp3: https://archive.org/details/110SonateNo.3EnUtMajeurPour/1-01+Sonate+no.+1+en+sol+mineur+pour.mp3
+
+Cello.mp3: https://archive.org/details/15SuiteNo.4EnMiBemolMajeur/01+Suite+no.+1%2C+en+sol+majeur%2C+pour.m4a
